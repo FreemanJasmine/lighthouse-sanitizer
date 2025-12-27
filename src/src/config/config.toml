@@ -1,0 +1,3 @@
+[settings]
+sanitize_level = "high"
+timeout_seconds = 5
